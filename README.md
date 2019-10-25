@@ -15,6 +15,7 @@ Oliver Chalkley, o.chalkley@bristol.ac.uk, github: OliCUoB
 Affiliation: Genome Design Group, Life Sciences, University of Bristol BS8TQ UK
 
 Minesweeper License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+
 GAMA License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 Minesweeper Version: 0.9
