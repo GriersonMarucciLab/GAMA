@@ -3,12 +3,13 @@ Guess Add Mate Algorithm (GAMA) for Minimal Genome Design
 
 GAMA and Minesweeper: genome design algorithms for whole-cell models
 ====================================================================
-Minesweeper Github: .... (update post publication)
+Minesweeper Github: https://github.com/GriersonMarucciLab/Minesweeper
 
 Paper: Rees and Chalkley et al 2019, https://doi.org/10.1101/344564 (update post publication)
 
 README Authors: 
 Joshua Rees, joshua.rees@bristol.ac.uk, github: squishybinary
+
 Oliver Chalkley, o.chalkley@bristol.ac.uk, github: OliCUoB
 
 Affiliation: Genome Design Group, Life Sciences, University of Bristol BS8TQ UK
