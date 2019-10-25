@@ -19,9 +19,10 @@ Minesweeper License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.
 GAMA License: GNU General Public License v3.0, gpl-3.0 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 Minesweeper Version: 0.9
+
 GAMA Version: 0.1 (Chalkley et al 2019, https://doi.org/10.1101/681270)
 
-Last Updated: 2019-06-28 	
+Last Updated: 2019-10-25
 
 
 
