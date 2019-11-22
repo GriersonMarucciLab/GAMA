@@ -7,6 +7,8 @@ Minesweeper Github: https://github.com/GriersonMarucciLab/Minesweeper
 
 Paper: Rees and Chalkley et al 2019, https://doi.org/10.1101/344564 (update post publication)
 
+Protocol Book Chapter: (update post publication)
+
 README Authors: 
 Joshua Rees, joshua.rees@bristol.ac.uk, github: squishybinary
 
